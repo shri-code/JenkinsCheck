@@ -1,8 +1,8 @@
 import java.util.*;
 
-public test{
+public class test{
 
-  public static void main(){
+  public static void main(String args[]){
       System.out.println("hello jenkins");
       return ;
   }
